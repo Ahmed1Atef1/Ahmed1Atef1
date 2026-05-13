@@ -41,12 +41,6 @@ SQL Server • MySQL • SQLite • Supabase • REST APIs
 
 ---
 
-## 🛠️ Tools
-
-Visual Studio • VS Code • Git • GitHub • Postman • XAMPP • Figma
-
----
-
 ## 📫 Connect With Me
 
 * 📧 **Email:** [ahmedatef.zyada@gmail.com](mailto:ahmedatef.zyada@gmail.com)
