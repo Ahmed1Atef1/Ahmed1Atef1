@@ -1,10 +1,10 @@
 <div align="center">
 
-#  Ahmed Atef
+# Ahmed Atef
 
-### Full Stack Developer • Flutter Developer • Backend Enthusiast
+### Full Stack Developer • Backend Developer • Flutter Developer
 
-🎓 Business Information Systems (BIS) Student
+🎓 Information Technology Graduate  
 🚀 Passionate About Building Modern Applications, APIs & Data-Driven Systems
 
 </div>
@@ -13,13 +13,13 @@
 
 ## 👨‍💻 About Me
 
-I enjoy building scalable applications, solving technical problems, and continuously learning modern technologies. My experience includes backend systems, APIs, mobile applications, full stack web development, dashboards, databases, and interactive user experiences.
+I’m an Information Technology graduate passionate about building practical and scalable software solutions. My experience includes backend systems, APIs, mobile applications, full stack web development, dashboards, databases, and data-driven applications.
+
+I enjoy solving technical problems, learning modern technologies, and turning ideas into real-world applications.
 
 ---
 
 ## ⚡ Tech Stack
-
-<div align="center">
 
 Python • C# • Dart • JavaScript • PHP • SQL
 
@@ -27,24 +27,24 @@ ASP.NET Core • Flutter • Streamlit • React • Laravel
 
 SQL Server • MySQL • SQLite • Supabase • REST APIs
 
-</div>
-
 ---
 
 ## 🚀 Current Focus
 
-* Backend Development
-* Full Stack Applications
-* Mobile App Development
-* APIs & System Integration
-* Data Visualization & Dashboards
+- Backend & Full Stack Development
+- Mobile App Development
+- APIs & System Integration
+- Cloud & DevOps
+- AWS • Linux • Docker
+- Data Visualization & Dashboards
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 **Email:** [ahmedatef.zyada@gmail.com](mailto:ahmedatef.zyada@gmail.com)
-* 💼 **LinkedIn:** [www.linkedin.com/in/ahmed-atef-15f234/](http://www.linkedin.com/in/ahmed-atef-15f234/)
+- 🌐 **Portfolio:** [ahmed-atef-portfolio.vercel.app](https://ahmed-atef-portfolio.vercel.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/ahmed-atef-15f234](https://linkedin.com/in/ahmed-atef-15f234)
+- 📧 **Email:** [ahmedatef.zyada@gmail.com](mailto:ahmedatef.zyada@gmail.com)
 
 ---
 
